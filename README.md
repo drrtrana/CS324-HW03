@@ -1,4 +1,4 @@
-###### CS-324-2: Introduction to the Design of Algorithms <br> Spring 2021 <br> Northeastern Illinois University <br> Homework #3 <br> Suggested Due Date: 02/03/21 <br> Due Date: 02/10/21 at 9:00 p.m. (CT) <br> Divide and Conquer, Part II
+###### CS-324-2: Introduction to the Design of Algorithms <br> Spring 2021 <br> Northeastern Illinois University <br> Homework #3 <br> Due Date: 02/03/21 <br> Divide and Conquer, Part II
 
 **Getting Started**
 
